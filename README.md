@@ -1,4 +1,4 @@
-# Financial Document Text & Data Extractor
+# Any Financial Document Text & Data Extractor
 Named entity extraction from scan documents with OpenCV, Pytesseract, Spacy (OCE + NER)
 
 ### `Problem Statement`
