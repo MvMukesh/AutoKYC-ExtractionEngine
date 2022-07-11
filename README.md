@@ -2,31 +2,35 @@
 Named entity extraction from scan documents with OpenCV, Pytesseract, Spacy (OCE + NER)
 
 ### `Problem Statement`
-Develop customized Named Entity Recognizer to extract entities from scanned documents like:
+Develop customized Named Entity Recognizer to extract entities from scanned documents images like:
 1. Invoice
-2. Business Card
+2. Business Card [my focus] || Extract Entities like: Name, Phone, Email, Organisation and Website link 
 3. Shipping Bill etc
 
 ### `Technologies used`
  
  1. Compute Vision modules were used to:
     1. scan document
-    2. identify location of text and finally 
+    2. identify location of text
     3. extract text from image
 
  2. Natural Language Processing used to 
     1. extract entitles from text
-    2. do necessary text cleaning 
+    2. text cleaning
     3. parsing entities form text
     
 ### `Python Libraries used in Computer Vision Module`
 
-1. OpenCV
-2. Numpy
+1. Numpy
+2. OpenCV
 3. Pytesseract
 
 ### `Python Libraries used in Natural Language Processing`
-1. Spacy
-2. Pandas
+1. Pandas
+2. Spacy
 3. Regular Expression
 4. String
+
+### `Flow to Extract Entities`
+1. Location of Entity
+2. Text of Corresponding Entity
