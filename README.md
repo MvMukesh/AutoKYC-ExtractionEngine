@@ -39,7 +39,7 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
 <hr>
 ## `Development Stages`
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Feature-Engineering-ML/blob/main/images/features.png" height='300' width='600'/> </kbd>
+   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='300' width='600'/> </kbd>
 
 
 
