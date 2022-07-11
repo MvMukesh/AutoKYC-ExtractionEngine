@@ -2,6 +2,13 @@
 Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCE + NER)
 <hr>
 
+## `Development Stages`
+
+<p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='140' width='700'/> </kbd>
+   
+<hr>
+
 ### `Problem Statement`
 Develop customized Named Entity Recognizer to extract entities from scanned documents images like:
 1. Invoice
@@ -36,12 +43,8 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
 1. Location of Entity
 2. Text of Corresponding Entity
 
-<hr>
 
-## `Development Stages`
 
-<p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='140' width='700'/> </kbd>
 
 
 
