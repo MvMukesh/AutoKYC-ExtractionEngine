@@ -5,7 +5,12 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 ## `Architecture`
 
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='140' width='700'/> </kbd>
+   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/architecture.png" height='250' width='700'/> </kbd>
+   
+## `Training Architecture`
+
+<p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/training_architecture.png" height='250' width='700'/> </kbd>
 
 ## `Development Stages`
 
