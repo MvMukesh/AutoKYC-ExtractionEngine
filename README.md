@@ -1,5 +1,5 @@
 # Any Financial Document Text & Data Extractor
-Named entity extraction from scan documents with OpenCV, Pytesseract, Spacy (OCE + NER)
+Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCE + NER)
 
 ### `Problem Statement`
 Develop customized Named Entity Recognizer to extract entities from scanned documents images like:
