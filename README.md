@@ -18,6 +18,8 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
    <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='140' width='700'/> </kbd>
    
 ## `BIO Tagging`
+Most time consuming task, took around more than 10 good hours
+   
 <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/BIO-Tagging.png"/> </kbd>   
 
