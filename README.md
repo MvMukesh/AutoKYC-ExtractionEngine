@@ -42,6 +42,9 @@ Most time consuming task, took around more than 10 good hours and some weeks
 <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/bounding_box_img_288.png" height='350' width='700'/> </kbd>   
 
+## `Input - Real Time`
+<p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/real_time_input.png" height='600' width='1000'/> </kbd>   
 <hr>
 <hr>
 
