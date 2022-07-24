@@ -47,6 +47,15 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 **Eyeballing very common and I will say very easy input point you can get in Real Time, input can be crazy, one can not think oof**
 <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/real_time_input.png" height='600' width='1000'/> </kbd>   
+
+ 
+## `Prediction`
+**You are observing prediction on above business card** <br>
+**Finding organisation is still bit difficult for this model, `clearly I have increase training data to trained on, in parallel I need to update my approach a bot more to bit more maybe`**
+<p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/prediction-real_time_input.png" height='600' width='1000'/> </kbd> 
+
+
 <hr>
 <hr>
 
