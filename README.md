@@ -28,7 +28,8 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
    
    
 ## `BIO Tagging`
-Most time consuming task, took around more than 10 good hours and some weeks
+**Most time consuming task, took around more than 10 good hours per day and some weeks** <br>
+**Input never comes this easy**
    
 <!---Image number 288.jpeg--->
 <p align="center">
@@ -43,6 +44,7 @@ Most time consuming task, took around more than 10 good hours and some weeks
    <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/bounding_box_img_288.png" height='350' width='700'/> </kbd>   
 
 ## `Input - Real Time`
+**Eyeballing very common and I will say very easy input point you can get in Real Time, input can be crazy, one can not think oof**
 <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/real_time_input.png" height='600' width='1000'/> </kbd>   
 <hr>
