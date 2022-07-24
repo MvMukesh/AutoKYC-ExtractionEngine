@@ -6,17 +6,20 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 
 <p align="center">
   <kbd>
-  <img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/document.gif" height=250' width='700'/>
+  <img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/document.gif" height=250' width='700'/> </kbd> </p>
 
 ## `Development Stages`
 
 <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='160' width='700'/> </kbd>
+</p>
 
 ## `Training Architecture`
 
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/training_architecture.png" height='250' width='700'/> </kbd>
+   <kbd>
+   <img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/training_architecture.png" height='250' width='700'/>        </kbd> 
+</p>
 
 ## `Architecture`
 
@@ -35,6 +38,9 @@ Most time consuming task, took around more than 10 good hours and some weeks
 <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/BIO-Tagging.png" height='650' width='400'/> </kbd>   
 
+## `Bounding Boxes`
+<p align="center">
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/bounding_box_img_288.png" height='350' width='700'/> </kbd>   
 
 <hr>
 <hr>
