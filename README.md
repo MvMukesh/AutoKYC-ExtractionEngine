@@ -1,10 +1,13 @@
 <img src="https://img.shields.io/badge/Domain%20-Computer%20Vision-orange%20.svg" ><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange.svg">  <img src="https://img.shields.io/badge/Library Used%20-OpenCv-orange%20.svg" ><img src="https://img.shields.io/badge/Pytesseract-orange%20.svg"><img src="https://img.shields.io/badge/Spacy-orange.svg"><img src="https://img.shields.io/badge/Regular%20Expression-orange.svg">  <img src=https://img.shields.io/badge/Built%20using-Python-yellow><img src="https://img.shields.io/badge/-Html5-orange"><img src="https://img.shields.io/badge/JavaScript-blue"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet">  <img src=https://img.shields.io/badge/Using%20-flask-green>  <img src="https://img.shields.io/badge/Deployed%20in-Heroku-blue"> 
 
-# Any Financial Document Text & Data Extractor
+# Any Financial Document -- Text & Data Extractor
 Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCE + NER)
 <hr>
 
-   
+<p align="center">
+  <kbd>
+  <img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/document.gif" height=250' width='700'/>
+
 ## `Development Stages`
 
 <p align="center">
