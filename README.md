@@ -29,7 +29,7 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
    
 ## `BIO Tagging`
 **Most chronophagous task, took around more than 10 good hours per day and some weeks** <br>
-**Input never comes this easy**
+**`Learning` -- Collecting good data in Real Life is not a cakewalk **
    
 <!---Image number 288.jpeg--->
 <p align="center">
