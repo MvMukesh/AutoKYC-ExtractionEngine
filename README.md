@@ -96,7 +96,7 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
 1. Location of Entity
 2. Text of Corresponding Entity
 
-### Some more NER use-cases
+### `Some more NER use-cases`
 <p align="center">
    <kbd>
     <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/ner_usecases.png" height='300' width='700'/> 
