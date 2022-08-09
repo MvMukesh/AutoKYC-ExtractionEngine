@@ -14,7 +14,7 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
    <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='160' width='700'/> </kbd>
 </p>
 
-## `Training Architecture`
+## `Training Architecture -(NER Model)`
 
 <p align="center">
    <kbd>
