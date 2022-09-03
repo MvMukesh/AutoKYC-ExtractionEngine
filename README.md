@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Domain%20-Computer%20Vision-orange%20.svg" ><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange.svg">  <img src="https://img.shields.io/badge/Library Used%20-OpenCv-orange%20.svg" ><img src="https://img.shields.io/badge/Pytesseract-orange%20.svg"><img src="https://img.shields.io/badge/Spacy-orange.svg"><img src="https://img.shields.io/badge/Regular%20Expression-orange.svg">  <img src=https://img.shields.io/badge/Built%20using-Python-yellow><img src="https://img.shields.io/badge/-Html5-orange"><img src="https://img.shields.io/badge/JavaScript-blue"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet">  <img src=https://img.shields.io/badge/Using%20-flask-green>  <img src="https://img.shields.io/badge/Deployed%20in-Heroku-blue"> 
+<img src="https://img.shields.io/badge/Domain%20-Computer%20Vision-orange%20.svg" ><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange.svg">  <img src="https://img.shields.io/badge/Library Used%20-OpenCv-orange%20.svg" ><img src="https://img.shields.io/badge/Pytesseract-orange%20.svg"><img src="https://img.shields.io/badge/Spacy-orange.svg"><img src="https://img.shields.io/badge/Regular%20Expression-orange.svg">  <img src=https://img.shields.io/badge/Built%20using-Python-yellow><img src="https://img.shields.io/badge/-Html5-orange"><img src="https://img.shields.io/badge/JavaScript-blue"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet">  <img src=https://img.shields.io/badge/Using%20-flask-green> 
 
 # Any Financial Document -- Text & Data Extractor
 Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCE + NER)
@@ -82,15 +82,11 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
     
 ### `Python Libraries used in Computer Vision Module`
 
-1. Numpy
-2. OpenCV
-3. Pytesseract
+<img src="https://img.shields.io/badge/Numpy-orange%20.svg" > <img src="https://img.shields.io/badge/Open%20CV-orange%20.svg" > <img src="https://img.shields.io/badge/Pytesseract-orange%20.svg" >
+ 
 
 ### `Python Libraries used in Natural Language Processing`
-1. Pandas
-2. Spacy
-3. Regular Expression
-4. String
+<img src="https://img.shields.io/badge/Pandas-orange%20.svg" > <img src="https://img.shields.io/badge/Spacy-orange%20.svg" > <img src="https://img.shields.io/badge/Regular%20Expression-orange%20.svg" > <img src="https://img.shields.io/badge/String-orange%20.svg" >
 
 ### `Flow to Extract Entities`
 1. Location of Entity
