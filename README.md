@@ -103,3 +103,6 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
 ### `Refrences`
 * [Skew Detection and Correction of Document images using Hough Transform](https://muthu.co/skew-detection-and-correction-of-document-images-using-hough-transform/)
 * [Skew Detection and Correction of Devanagari Script Using Hough Transform](https://www.researchgate.net/publication/274142211_Skew_Detection_and_Correction_of_Devanagari_Script_Using_Hough_Transform)
+
+### `For Next Version`
+* [Looking At](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
