@@ -27,10 +27,19 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
    <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/architecture.png" height='250' width='700'/> </kbd>
    
 ## `Text Detection WorkFlow`
-<p align="center">
+                                                                                                                                                <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/text_detection_worflow.png" height='150' width='700'/> </kbd>
-  
-  
+
+<h3> Image Preprocessing (Suppressing unwanted distortions, Enhancing important Image Features)</h3>
+1. Binarization 
+2. Rescaling
+3. Dilation
+<h3> Image Segmentation (breaking image based on)</h3>
+1. Single Character
+2. Word
+3. Line
+
+
 ## `Labeling - BIO/IOB Tagging Format`
 **Most chronophagous task, took around more than 10 good hours per day and some weeks** <br>
 **`Learning` -- Collecting good data in Real Life is not a cakewalk **
