@@ -67,8 +67,8 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 **Finding organisation and name is still bit difficult , `clearly I have to increase business card data from 350+ cards to maybe 1000+, in parallel I need to update my approach a bot more to bit more maybe`**
 <p align="center">
    <kbd>
-    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/prediction-real_time_input.png" height='600' width='1000'/> 
-   <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/prediction_real_time_input_terminal.png" height='400' width='1000'/>
+    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/prediction-real_time_input.png" height='350' width='1000'/> 
+   <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/prediction_real_time_input_terminal.png" height='350' width='1000'/>
    </kbd> 
 
 
