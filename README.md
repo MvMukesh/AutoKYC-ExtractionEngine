@@ -111,8 +111,16 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
     <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/ner_usecases.png" height='300' width='700'/> 
 
 
-
-
+### `Improvements:`
+1. I am using Spacy NER model, which is a `BERT architecture` i.e. I have to provide more data to this model to see performance improvement
+2. I can also improve `Data Preparation Framework`
+3. I am using PyTesseract(google) to extract text, it have some limitations like:
+4. Image resolution must be atlest `200 dpi` or width & height must be atlest `300 pixels`
+  1. Text must not be Rotated or Skewed
+  2. Text must not be having some effets applied on it
+  3. Text must not be blured
+  4. Text must not be cursive handwriting
+                                                                                                                                           
 ### `Refrences`
 * [Skew Detection and Correction of Document images using Hough Transform](https://muthu.co/skew-detection-and-correction-of-document-images-using-hough-transform/)
 * [Skew Detection and Correction of Devanagari Script Using Hough Transform](https://www.researchgate.net/publication/274142211_Skew_Detection_and_Correction_of_Devanagari_Script_Using_Hough_Transform)
