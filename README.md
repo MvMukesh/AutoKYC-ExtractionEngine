@@ -5,30 +5,30 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 <hr> </hr>
 
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/document.gif" height=250' width='700'/> </kbd>
+  <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/document.gif" height=250' width='700'/> </kbd>
 </p>
 
 ## `Development Stages`
 
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/development_stage.png" height='160' width='700'/> </kbd>
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/development_stage.png" height='160' width='700'/> </kbd>
 </p>
 
 ## `Training Architecture -(NER Model)`
 
 <p align="center">
    <kbd>
-   <img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/training_architecture.png" height='250' width='700'/>        </kbd> 
+   <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/training_architecture.png" height='250' width='700'/>        </kbd> 
 </p>
 
 ## `Architecture`
 
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/architecture.png" height='250' width='700'/> </kbd>
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/architecture.png" height='250' width='700'/> </kbd>
    
 ## `Text Detection WorkFlow`
                                                                                                                                                 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/text_detection_worflow.png" height='150' width='700'/> </kbd>
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/text_detection_worflow.png" height='150' width='700'/> </kbd>
 
 <h3> Image Preprocessing (Suppressing unwanted distortions, Enhancing important Image Features)</h3>
 1. Binarization 
@@ -46,20 +46,20 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
    
 <!---Image number 288.jpeg--->
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/288.jpeg" height='250' width='700'/> </kbd> </p>
+   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/poc_results_img/288.jpeg" height='250' width='700'/> </kbd> </p>
 
 <!---Image number 288.jpeg BIO tagging data--->
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/images/BIO-Tagging.png" height='650' width='400'/> </kbd>   
+   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/poc_results_img/BIO-Tagging.png" height='650' width='400'/> </kbd>   
 
 ## `Bounding Boxes`
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/bounding_box_img_288.png" height='350' width='700'/> </kbd>   
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/bounding_box_img_288.png" height='350' width='700'/> </kbd>   
 
 ## `Input - Real Time`
 **Eyeballing Scanned results of very common and I will say very easy input point you can get in Real Time, input can be anything in range of crazy to very crazy**
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/real_time_input.png" height='600' width='1000'/> </kbd>   
+   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/real_time_input.png" height='600' width='1000'/> </kbd>   
 
  
 ## `NER Prediction`
@@ -67,8 +67,8 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 **Finding organisation and name is still bit difficult , `clearly I have to increase business card data from 350+ cards to maybe 1000+, in parallel I need to update my approach a bot more to bit more maybe`**
 <p align="center">
    <kbd>
-    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/prediction-real_time_input.png" height='350' width='1000'/> 
-   <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/prediction_real_time_input_terminal.png" height='350' width='1000'/>
+    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/prediction-real_time_input.png" height='350' width='1000'/> 
+   <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/prediction_real_time_input_terminal.png" height='350' width='1000'/>
    </kbd> 
 
 
@@ -108,7 +108,7 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
 ### `Some more NER use-cases`
 <p align="center">
    <kbd>
-    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/images/ner_usecases.png" height='300' width='700'/> 
+    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/ner_usecases.png" height='300' width='700'/> 
 
 
 ### `Improvements:`
