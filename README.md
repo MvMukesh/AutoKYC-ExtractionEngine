@@ -4,8 +4,6 @@
 Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCR + NER)
 <hr> </hr>
 
-<img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/document.gif" height="60" width="60">
-
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/document.gif" height=250' width='700'/> </kbd>
 </p>
