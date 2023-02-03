@@ -57,14 +57,14 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
    <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/bounding_box_img_288.png" height='350' width='700'/> </kbd>   
 
 ## `Input - Real Time`
-**Eyeballing Scanned results of very common and I will say very easy input point you can get in Real Time, input can be anything in range of crazy to very crazy**
+**Eyeballing Scanned results of very common and easy input point you can get in Real Time, input can be anything in range of crazy to very crazy**
 <p align="center">
    <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/real_time_input.png" height='600' width='1000'/> </kbd>   
 
  
 ## `NER Prediction`
 **You are observing NER Prediction on scanned results of above business card** <br>
-**Finding organisation and name is still bit difficult , `clearly I have to increase business card data from 350+ cards to maybe 1000+, in parallel I need to update my approach a bot more to bit more maybe`**
+**Finding organisation and name is still bit difficult , `clearly I have to increase business card data from 3000+ cards to maybe 10000+, in parallel I need to update my approach a bot more to bit more maybe`**
 <p align="center">
    <kbd>
     <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/prediction-real_time_input.png" height='350' width='1000'/> 
