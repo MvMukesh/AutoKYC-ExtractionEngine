@@ -20,8 +20,7 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 
 <p align="center">
    <kbd>
-   <img src="https://user-images.githubusercontent.com/26667491/221348294-f6519191-7552-4092-8ca5-2a84557a95aa.png" height='250' width='700' tag="training_architecture.png"/>        </kbd> 
-</p>
+   <img src="https://user-images.githubusercontent.com/26667491/221348294-f6519191-7552-4092-8ca5-2a84557a95aa.png" height='250' width='700' tag="training_architecture.png"/></kbd> </p>
 
 
 ## `Architecture`
@@ -71,9 +70,10 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 **Finding organisation and name is still bit difficult , `clearly I have to increase business card data from 3000+ cards to maybe 10000+, in parallel I need to update my approach a bot more to bit more maybe`**
 <p align="center">
    <kbd>
-    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/prediction-real_time_input.png" height='350' width='1000'/> 
+    <img src="https://user-images.githubusercontent.com/26667491/221351756-0955c9c2-fd18-41e2-af85-ee73b322f45e.png" height='350' width='1000' tag='box_prediction_real_time_input'/>
+      
    <img src="https://user-images.githubusercontent.com/26667491/221350809-ca7fe8bf-1917-4972-adeb-fef5f62e04c8.png" height='350' width='1000' tag="prediction_real_time_input_terminal"/>
-   </kbd> 
+   </kbd> </p>
 
 
 <hr>
