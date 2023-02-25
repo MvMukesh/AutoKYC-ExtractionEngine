@@ -5,30 +5,35 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 <hr> </hr>
 
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/document.gif" height=250' width='700'/> </kbd>
+  <kbd><img src="https://user-images.githubusercontent.com/26667491/221348114-87651e73-19f7-4d65-9080-0cfda72e0246.gif" height=300' width='600'> </kbd>
 </p>
+
 
 ## `Development Stages`
 
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/development_stage.png" height='160' width='700'/> </kbd>
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348226-dda61630-5d3c-4baa-a3db-ec042ff2be5b.png" height='160' width='700' tag="development_stage.png"/> </kbd>
 </p>
+
 
 ## `Training Architecture -(NER Model)`
 
 <p align="center">
    <kbd>
-   <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/training_architecture.png" height='250' width='700'/>        </kbd> 
+   <img src="https://user-images.githubusercontent.com/26667491/221348294-f6519191-7552-4092-8ca5-2a84557a95aa.png" height='250' width='700' tag="training_architecture.png"/>        </kbd> 
 </p>
+
 
 ## `Architecture`
 
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/architecture.png" height='250' width='700'/> </kbd>
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348355-23e84cda-4b7a-4f37-9663-8c1512820dbd.png" height='250' width='700' tag="architecture.png"/> </kbd></p>
    
+
 ## `Text Detection WorkFlow`
-                                                                                                                                                <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/text_detection_worflow.png" height='150' width='700'/> </kbd>
+                                                                                                                                                
+<p align="center">
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348429-f128ca30-0688-4fd6-91e4-a07654a51ffd.png" height='150' width='700' tag="text_detection_worflow.png"/> </kbd> </p>
 
 <h3> Image Preprocessing (Suppressing unwanted distortions, Enhancing important Image Features)</h3>
 1. Binarization 
@@ -44,17 +49,16 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 **Most chronophagous task, took around more than 10 good hours per day and some weeks** <br>
 **`Learning` -- Collecting good data in Real Life is not a cakewalk**
    
-<!---Image number 288.jpeg--->
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/poc_results_img/288.jpeg" height='250' width='700'/> </kbd> </p>
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348550-adb91438-e257-443c-906f-d9695956bb6c.jpeg" height='300' width='700' tag="card-sample.jpeg"/> </kbd> </p>
 
-<!---Image number 288.jpeg BIO tagging data--->
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Financial-Document-Text-Data-Extractor/blob/main/poc_results_img/BIO-Tagging.png" height='650' width='400'/> </kbd>   
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348653-c0d73580-55dc-4993-9ac6-6538337ead9a.png" height='650' width='400' tag="BIO-Tagging_example.png"/> </kbd>   
+
 
 ## `Bounding Boxes`
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/bounding_box_img_288.png" height='350' width='700'/> </kbd>   
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348696-89e3df24-d740-455e-b5ed-1176e6fb28bd.png" height='350' width='750' tag="bounding_boxes_on_image"/> </kbd> 
 
 ## `Input - Real Time`
 **Eyeballing Scanned results of very common and easy input point you can get in Real Time, input can be anything in range of crazy to very crazy**
