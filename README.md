@@ -4,6 +4,7 @@
 Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCR + NER)
 <hr> </hr>
 
+
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348114-87651e73-19f7-4d65-9080-0cfda72e0246.gif" height=300' width='600'> </kbd>
 </p>
