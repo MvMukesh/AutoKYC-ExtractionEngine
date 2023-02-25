@@ -63,16 +63,16 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 ## `Input - Real Time`
 **Eyeballing Scanned results of very common and easy input point you can get in Real Time, input can be anything in range of crazy to very crazy**
 <p align="center">
-   <kbd><img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/real_time_input.png" height='600' width='1000'/> </kbd>   
+   <kbd><img src="https://user-images.githubusercontent.com/26667491/221350617-62eded9c-c792-47dd-b542-27a7fd77c58f.png" height='600' width='1000' tag="real_time_input"/> </kbd>   
 
- 
+
 ## `NER Prediction`
 **You are observing NER Prediction on scanned results of above business card** <br>
 **Finding organisation and name is still bit difficult , `clearly I have to increase business card data from 3000+ cards to maybe 10000+, in parallel I need to update my approach a bot more to bit more maybe`**
 <p align="center">
    <kbd>
     <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/prediction-real_time_input.png" height='350' width='1000'/> 
-   <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/prediction_real_time_input_terminal.png" height='350' width='1000'/>
+   <img src="https://user-images.githubusercontent.com/26667491/221350809-ca7fe8bf-1917-4972-adeb-fef5f62e04c8.png" height='350' width='1000' tag="prediction_real_time_input_terminal"/>
    </kbd> 
 
 
@@ -112,7 +112,8 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
 ### `Some more NER use-cases`
 <p align="center">
    <kbd>
-    <img src="https://github.com/MvMukesh/Any-Financial-Document-Data-Extractor/blob/main/poc_results_img/ner_usecases.png" height='300' width='700'/> 
+    <img src="https://user-images.githubusercontent.com/26667491/221350877-d50374d8-f713-496c-a51e-af58d0f46b96.png" height='300' width='700' tag='ner_usecases'/> 
+</p>
 
 
 ### `Improvements:`
