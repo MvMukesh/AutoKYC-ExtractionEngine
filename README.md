@@ -9,7 +9,10 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348114-87651e73-19f7-4d65-9080-0cfda72e0246.gif" height=300' width='600'> </kbd>
 </p>
 
+[![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/AutoKYC-ExtractionEngine.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/AutoKYC-ExtractionEngine.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/AutoKYC-ExtractionEngine.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine/stargazers/)
 
+<hr>
+ 
 ## `Development Stages`
 
 <p align="center">
