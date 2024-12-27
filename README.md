@@ -60,6 +60,7 @@ The global identity verification market is expected to grow from $9.5 billion in
 2. Word
 3. Line
 
+<hr>
 
 ## `Labeling - BIO/IOB Tagging Format`
 **Most chronophagous task, took around more than 10 good hours per day and some weeks** <br>
