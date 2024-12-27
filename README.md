@@ -12,6 +12,20 @@ Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy
 [![GitHub Issues](https://img.shields.io/github/issues/MvMukesh/AutoKYC-ExtractionEngine.svg) ![GitHub followers](https://img.shields.io/github/followers/MvMukesh.svg?style=social\&label=Follow\&maxAge=2592000)](https://github.com/MvMukesh?tab=followers) [![GitHub forks](https://img.shields.io/github/forks/MvMukesh/AutoKYC-ExtractionEngine.svg?style=social\&label=Fork\&maxAge=2592000)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine/network/) [![GitHub stars](https://img.shields.io/github/stars/MvMukesh/AutoKYC-ExtractionEngine.svg?style=social\&label=Star\&maxAge=2592000)](https://github.com/MvMukesh/AutoKYC-ExtractionEngine/stargazers/)
 
 <hr>
+<b>Manual KYC checks</b>
+<p align="center">
+  <kbd><img src="https://github.com/user-attachments/assets/12e3ca6b-4f5f-40c3-af0e-caecd82634f4" height=300' width='600'> </kbd>
+</p>
+
+<hr>
+
+<b>Automated KYC checks</b>
+<p align="center">
+  <kbd><img src="https://github.com/user-attachments/assets/5629d9fe-0134-4ffc-8721-0fa1db8bd403" height=300' width='600'> </kbd>
+</p>
+The global identity verification market is expected to grow from $9.5 billion in 2022 to $18.6 billion by 2027. So the trend toward automation is becoming ever more apparent.
+
+<hr>
  
 ## `Development Stages`
 
