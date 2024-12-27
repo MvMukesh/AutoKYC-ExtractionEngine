@@ -17,7 +17,12 @@
 </a> -->
 </div>
 
-<center><h1>AutoKYC Extraction Engine</h1></center>
+<h2>
+    <p align="center">
+     ⚡ AutoKYC ⚡
+    </p>
+</h2>
+
 Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCR + NER)
 <hr> </hr>
 
