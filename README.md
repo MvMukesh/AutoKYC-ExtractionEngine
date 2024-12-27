@@ -1,9 +1,8 @@
-<img src="https://img.shields.io/badge/Domain%20-Computer%20Vision-orange%20.svg" ><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange.svg">  <img src="https://img.shields.io/badge/Library Used%20-OpenCv-orange%20.svg" ><img src="https://img.shields.io/badge/Pytesseract-orange%20.svg"><img src="https://img.shields.io/badge/Spacy-orange.svg"><img src="https://img.shields.io/badge/Regular%20Expression-orange.svg">  <img src=https://img.shields.io/badge/Built%20using-Python-yellow><img src="https://img.shields.io/badge/-Html5-orange"><img src="https://img.shields.io/badge/JavaScript-blue"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet">  <img src="https://img.shields.io/badge/Using%20-flask-green"> 
-
-# AutoKYC Extraction Engine
+<center><h1>AutoKYC Extraction Engine</h1></center>
 Named entity extraction from financial documents with OpenCV, Pytesseract, Spacy (OCR + NER)
 <hr> </hr>
 
+<img src="https://img.shields.io/badge/Domain%20-Computer%20Vision-orange%20.svg" ><img src="https://img.shields.io/badge/Natural%20Language%20Processing-orange.svg">  <img src="https://img.shields.io/badge/Library Used%20-OpenCv-orange%20.svg" ><img src="https://img.shields.io/badge/Pytesseract-orange%20.svg"><img src="https://img.shields.io/badge/Spacy-orange.svg"><img src="https://img.shields.io/badge/Regular%20Expression-orange.svg">  <img src=https://img.shields.io/badge/Built%20using-Python-yellow><img src="https://img.shields.io/badge/-Html5-orange"><img src="https://img.shields.io/badge/JavaScript-blue"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet">  <img src="https://img.shields.io/badge/Using%20-flask-green"> 
 
 <p align="center">
   <kbd><img src="https://user-images.githubusercontent.com/26667491/221348114-87651e73-19f7-4d65-9080-0cfda72e0246.gif" height=300' width='600'> </kbd>
@@ -150,3 +149,11 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
 
 ### `What Next`
 * [Understanding this](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
+
+<hr>
+
+### `Trouble : Choosing vendors for automated KYC verification`
+<p align="center">
+  <kbd><img src="https://github.com/user-attachments/assets/5debc3e9-1686-4119-b99f-4d0cb5246b35" height=300' width='600'> </kbd>
+</p>
+
