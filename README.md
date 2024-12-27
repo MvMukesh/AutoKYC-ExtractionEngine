@@ -183,3 +183,4 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
   <kbd><img src="https://github.com/user-attachments/assets/5debc3e9-1686-4119-b99f-4d0cb5246b35" height=300' width='600'> </kbd>
 </p>
 
+<!--https://regulaforensics.com/blog/kyc-automation/-->
