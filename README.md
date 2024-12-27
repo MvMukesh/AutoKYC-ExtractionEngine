@@ -158,3 +158,21 @@ Develop customized Named Entity Recognizer to extract entities from scanned docu
   <kbd><img src="https://github.com/user-attachments/assets/5debc3e9-1686-4119-b99f-4d0cb5246b35" height=300' width='600'> </kbd>
 </p>
 
+<!--Footer -->
+
+<div align="center"> 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mukesh-manral/"><img src="https://img.shields.io/badge/LinkedIn-411AFF?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>  
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@manralai"><img src="https://img.shields.io/badge/Youtube-411AFF?style=for-the-badge&logo=Youtube&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@manralai/lists"><img src="https://img.shields.io/badge/Medium-411AFF?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.instagram.com/manralai/"><img src="https://img.shields.io/badge/Instagram-411AFF?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://www.kaggle.com/mukeshmanral"><img src="https://img.shields.io/badge/Kaggle-411AFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<!-- <a href="https://discord.user"><img alt="discord_logo" src="https://img.shields.io/badge/Discord-411AFF?style=for-the-badge&logo=discord&logoColor=white"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp; 
+#<a href="https://twitter.com/WebXDAO"> <img src="https://img.shields.io/badge/X_(Twitter)-411AFF?style=for-the-badge&logo=x&logoColor=white" />
+</a> -->
+</div>
